@@ -1,8 +1,7 @@
 # basic setup
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.ingtshan.top/'
 ## [en, zh-cn, fr, ...]
 defaultContentLanguage = "zh-cn"
-## 网站语言, 仅在这里 CN 大写
 languageCode = "zh-cn"
 ## 是否包括中日韩文字
 hasCJKLanguage = true

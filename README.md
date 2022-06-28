@@ -18,4 +18,5 @@ mkdir public
 git clone --single-branch --branch hugo git@github.com:ingtshan/ingtshan.github.io.git hugo
 cd hugo
 git submodule update --init --recursive
+chmod +x deploy.sh
 ```
