@@ -10,8 +10,9 @@
 ```
 
 ## install
-
+BLOGDIR is where you want to put all my stuff in this repo
 ``` shen
+# say BLOGDIR=~/blog
 cd $BLOGDIR
 mkdir content
 mkdir public
