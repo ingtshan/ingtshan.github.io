@@ -6,7 +6,16 @@
     <description>Recent content on 熒的文字</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 28 Jun 2022 17:21:00 +0800</lastBuildDate><atom:link href="https://blog.ingtshan.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 18:42:00 +0800</lastBuildDate><atom:link href="https://blog.ingtshan.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing in Emacs, Posting with hugo</title>
+      <link>https://blog.ingtshan.top/posts/2022/06/how-i-written-a-post/</link>
+      <pubDate>Tue, 28 Jun 2022 18:42:00 +0800</pubDate>
+      
+      <guid>https://blog.ingtshan.top/posts/2022/06/how-i-written-a-post/</guid>
+      <description>文章发布流程 org-mode 写作 org-mode &amp;ndash;&amp;gt; markdow deploy 以下文件需要同步 org-mode node files content: markdown blog files public: static site files -&amp;gt; push to github hugo: config and build need files -&amp;gt; push to github</description>
+    </item>
+    
     <item>
       <title>hello world</title>
       <link>https://blog.ingtshan.top/posts/2022/06/2022-06-28/</link>
